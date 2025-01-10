@@ -4,8 +4,8 @@ Project UAS Pemrograman Visual
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Gilar Sumilar |
-| **NIM** | 312210407 |
+| **Nama** | Diska Kurnia Azzahra Putra |
+| **NIM** | 312210369 |
 | **Kelas** | TI.22.A4 |
 | **Mata Kuliah** | Pemrograman Visual|
 
